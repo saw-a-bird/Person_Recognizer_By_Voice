@@ -6,16 +6,16 @@ You record your voice and it predicts your name, however, it's not so simple...
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-        <img src="./pictures/Screenshot from 2022-11-29 20-12-20.png" /> 
+        <img src="./pics/Screenshot from 2022-11-29 20-12-20.png" /> 
     </td>
     <td valign="top">
-        <img src="./pictures/Screenshot from 2022-11-29 20-21-56.png"  /> 
+        <img src="./pics/Screenshot from 2022-11-29 20-21-56.png"  /> 
      </td>
      <td valign="top">
-        <img src="./pictures/Screenshot from 2022-11-29 20-30-30.png"  /> 
+        <img src="./pics/Screenshot from 2022-11-29 20-30-30.png"  /> 
      </td>
      <td valign="top">
-      <img src="./pictures/Screenshot from 2022-11-29 20-30-26.png"  /> 
+      <img src="./pics/Screenshot from 2022-11-29 20-30-26.png"  /> 
    </td>
   </tr>
 </table>
