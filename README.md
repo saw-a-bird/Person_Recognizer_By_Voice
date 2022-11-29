@@ -19,3 +19,7 @@ You record your voice and it predicts your name, however, it's not so simple...
    </td>
   </tr>
 </table>
+
+This project was made in a limited time frame. Both the prediction and training algorithms could be heavily improved. I only implemented the mel-spectogram prediction model, while the other models like chroma, zero-crossing rate, mfcc, spectral centroid... although i already created their training algorithms (you can find it in the <code>train.py</code>), I lacked the knowledge to combine them all in one final model, so I simply ignored them for now.
+
+This was my first project in machine learning. I learned alot like more than I ever expected.
