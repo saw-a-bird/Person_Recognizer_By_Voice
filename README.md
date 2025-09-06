@@ -1,6 +1,21 @@
-# Person_Recognizer_By_Voice
-You record your voice and it predicts your name, however, it's not so simple...
+# AI Recognize person by voice
+Record your voice and the system predicts your name.
 
+Note: The prediction is not perfect — this was an experimental project.
+
+This project was created under a limited time frame. Both the prediction and training algorithms could be heavily improved. Currently, only the Mel-spectrogram prediction model is implemented.
+Other audio features such as chroma, zero-crossing rate, MFCC, spectral centroid, etc., have training algorithms in train.py, but I didn’t combine them into a final model due to lack of experience at the time.
+
+This was my first official machine learning project (after some small experiments like the Pokémon Legendary Guesser and an income predictor). I learned a lot more than I expected.
+
+
+## Technologies used:
+  - Languages: Python
+  - GUI: PySimpleGUI
+  - Libraries: Tensorflow, keras, librosa, numpy, pandas, csv.......
+
+
+## Screenshots: 
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -19,12 +34,3 @@ You record your voice and it predicts your name, however, it's not so simple...
    </td>
   </tr>
 </table>
-
-This project was made in a limited time frame. Both the prediction and training algorithms could be heavily improved. I only implemented the mel-spectogram prediction model, while the other models like chroma, zero-crossing rate, mfcc, spectral centroid... although i already created their training algorithms (you can find it in the <code>train.py</code>), I lacked the knowledge to combine them all in one final model, so I simply ignored them for now.
-
-This was my first (well, admittedly, i trained on the pokemon legendary guesser and some income predictor projects first, but this one is official) project in machine learning. I learned alot like more than I ever expected.
-
-## Technologies used:
-  - Languages: Python
-  - GUI: PySimpleGUI
-  - Libraries: Tensorflow, keras, librosa, numpy, pandas, csv.......
